@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+html{
+    overflow: hidden;
+    width: 220vh;
+    height: 220vh;
+    background: no-repeat;
+    background-image: linear-gradient(to bottom right, rgb(11, 183, 235), rgb(247, 162, 176), white);
+}
+.texto{
+    position: relative;
+    top: 25px;
+    left: 840px;
+    font-size: 45px;
+    color: white;
+    text-shadow: 3px 3px 7px rgb(215, 120, 230);
+}
+.botao{
+    font-size: 25px;
+    border-radius: 5px;
+    color: rgb(255, 0, 0);
+    width: 75px;
+    height: 45px;
+    position: relative;
+    top: 100px;
+    left: 750px;
+}
+.buttony{
+    font-size: 25px;
+    border-radius: 5px;
+    color: rgb(6, 27, 255);
+    width: 75px;
+    height: 45px;
+    position: relative;
+    top: 100px;
+    left: 1000px;
+}
+.buttonyj{
+    font-size: 25px;
+    border-radius: 5px;
+    color: rgb(6, 27, 255);
+    width: 75px;
+    height: 45px;
+}
+.img{
+    position: relative;
+    left: 650px;
+    top: 100px;
+}
